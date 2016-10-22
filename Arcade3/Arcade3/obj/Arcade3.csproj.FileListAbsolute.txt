@@ -1,0 +1,13 @@
+C:\Documents and Settings\jsilverstein.PIC\Desktop\Arcade3\Arcade3\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jsilverstein.PIC\Desktop\Arcade3\Arcade3\obj\Debug\Arcade3.Form1.resources
+C:\Documents and Settings\jsilverstein.PIC\Desktop\Arcade3\Arcade3\obj\Debug\BouncingRectangle.helpDialog.resources
+C:\Documents and Settings\jsilverstein.PIC\Desktop\Arcade3\Arcade3\obj\Debug\BouncingRectangle.invadersForm.resources
+C:\Documents and Settings\jsilverstein.PIC\Desktop\Arcade3\Arcade3\obj\Debug\Arcade3.Properties.Resources.resources
+C:\Documents and Settings\jsilverstein.PIC\Desktop\Arcade3\Arcade3\obj\Debug\Arcade3.csproj.GenerateResource.Cache
+C:\Documents and Settings\jsilverstein.PIC\Desktop\Arcade3\Arcade3\bin\Debug\Arcade3.exe
+C:\Documents and Settings\jsilverstein.PIC\Desktop\Arcade3\Arcade3\bin\Debug\Arcade3.pdb
+C:\Documents and Settings\jsilverstein.PIC\Desktop\Arcade3\Arcade3\obj\Debug\Arcade3.exe
+C:\Documents and Settings\jsilverstein.PIC\Desktop\Arcade3\Arcade3\obj\Debug\Arcade3.pdb
+C:\Documents and Settings\jsilverstein.PIC\Desktop\Arcade3\Arcade3\obj\Debug\WindowsFormsApplication1.Help.resources
+C:\Documents and Settings\jsilverstein.PIC\Desktop\Arcade3\Arcade3\obj\Debug\WindowsFormsApplication1.snakegame.resources
+C:\Documents and Settings\jsilverstein.PIC\Desktop\Arcade3\Arcade3\obj\Debug\FaerieBubbles.FaerieBubbles.resources
